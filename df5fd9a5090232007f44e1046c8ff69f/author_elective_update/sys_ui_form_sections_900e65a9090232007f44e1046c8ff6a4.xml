@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="900e65a9090232007f44e1046c8ff6a4" sys_domain="global" table="x_snc_createnotes_note" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-10 15:59:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a80e65a9090232007f44e1046c8ff6a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_createnotes_note" sys_domain="global" view="Default view">eebded69090232007f44e1046c8ff693</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-10 15:59:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a40e65a9090232007f44e1046c8ff6a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_createnotes_note</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-10 15:59:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>900e65a9090232007f44e1046c8ff6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_createnotes_note</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_900e65a9090232007f44e1046c8ff6a4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-10 15:59:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>a6df3ef3db6b3b008aea21c40596190a</instance_id>
+        <instance_name>dev92901</instance_name>
+        <name>sys_ui_form_sections_900e65a9090232007f44e1046c8ff6a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="900e65a9090232007f44e1046c8ff6a4" sys_domain="global" table="x_snc_createnotes_note" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-10 15:59:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a80e65a9090232007f44e1046c8ff6a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_createnotes_note" sys_domain="global" view="Default view">eebded69090232007f44e1046c8ff693</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-10 15:59:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a40e65a9090232007f44e1046c8ff6a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_createnotes_note" name="x_snc_createnotes_note" sys_domain="global" view="Default view">900e65a9090232007f44e1046c8ff6a4</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_createnotes_note" sys_domain="global" view="Default view">540e65a9090232007f44e1046c8ff6a3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-10 15:59:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_createnotes_note</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-10 15:59:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>900e65a9090232007f44e1046c8ff6a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_createnotes_note</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_900e65a9090232007f44e1046c8ff6a4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-10 15:59:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>]]></payload>
+        <payload_hash>-1238226631</payload_hash>
+        <record_name>Note</record_name>
+        <reverted_from/>
+        <source>cbbbf89a2f3f2110f1c757892799b6c3</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-05 02:08:12</sys_created_on>
+        <sys_id>b7bb7c9a2f3f2110f1c757892799b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18923cea3580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-05 02:08:12</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>f3bb7c9a613f211028cf38571454cf3d</update_guid>
+        <update_guid_history>f3bb7c9a613f211028cf38571454cf3d:0,899bf49a3f3f2110914690f261f1d014:-632858418,f0c77096363f2110280dbf5e2e3f8ad8:-1238226631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-05 02:12:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>291ccafd9b6e45648f21975249d3af10</sys_id>
+        <sys_metadata>900e65a9090232007f44e1046c8ff6a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_createnotes_note</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent display_value="">47bbf89a2f3f2110f1c757892799b67e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_ui_form_sections_900e65a9090232007f44e1046c8ff6a4</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_900e65a9090232007f44e1046c8ff6a4">b7bb7c9a2f3f2110f1c757892799b63d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-05 02:12:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>execute</operation>
+        <source_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-30 19:11:50</sys_created_on>
+        <sys_id>7602dfe0db7133000613a08a48961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: scripting</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_scope_privilege_7602dfe0db7133000613a08a48961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-30 19:11:50</sys_updated_on>
+        <target_name>Glide API: scripting</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>a6df3ef3db6b3b008aea21c40596190a</instance_id>
+        <instance_name>dev92901</instance_name>
+        <name>sys_scope_privilege_7602dfe0db7133000613a08a48961961</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-30 19:11:50</sys_created_on>
+        <sys_id>7602dfe0db7133000613a08a48961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: scripting</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_scope_privilege_7602dfe0db7133000613a08a48961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-30 19:11:50</sys_updated_on>
+        <target_name>Glide API: scripting</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>]]></payload>
+        <payload_hash>718637297</payload_hash>
+        <record_name>Glide API: scripting</record_name>
+        <reverted_from/>
+        <source>cbbbf89a2f3f2110f1c757892799b6c3</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-05 02:08:11</sys_created_on>
+        <sys_id>3fbb3c9a2f3f2110f1c757892799b6eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18923cea0d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-05 02:08:11</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>7bbb3c9a9d3f2110313906dfd69462eb</update_guid>
+        <update_guid_history>7bbb3c9a9d3f2110313906dfd69462eb:0,a59b389aa33f2110d0e53eaaea9dba51:-670993491,e4c770962f3f211018aedc12167a589f:718637297</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-05 02:12:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>061675534d2642e889efe6eef80ca490</sys_id>
+        <sys_metadata>7602dfe0db7133000613a08a48961961</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: scripting</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_scope_privilege_7602dfe0db7133000613a08a48961961</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_7602dfe0db7133000613a08a48961961">3fbb3c9a2f3f2110f1c757892799b6eb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-05 02:12:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
